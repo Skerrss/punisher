@@ -4,7 +4,7 @@ define('VERSION', ' ');
 define('APP_TITLE', ' ');
 $use_auth = true;
 $auth_users = array(
-    'Interface' => '$2a$10$MYYdAVGH4l.06HMEos0ey.qfPEzyaFDmPEnqyw6dOdUja4gN94iDm',
+    'Busetluu' => '$2y$10$iiOHFLjw/whof0rNbUpUEuQnfp4lZjH1aYvilDIFNPZScOoFhaR.O',
 );
 
 $readonly_users = array(
